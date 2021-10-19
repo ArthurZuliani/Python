@@ -1,0 +1,2 @@
+Datalogger test of serial transmission
+b'Timestap(s) 0 sensor = 477 output = 118\r\n'b'Timestap(s) 1 sensor = 463 output = 115\r\n'b'Timestap(s) 2 sensor = 456 output = 113\r\n'b'Timestap(s) 3 sensor = 457 output = 113\r\n'b'Timestap(s) 4 sensor = 461 output = 114\r\n'b'Timestap(s) 5 sensor = 442 output = 110\r\n'b'Timestap(s) 6 sensor = 447 output = 111\r\n'b'Timestap(s) 7 sensor = 450 output = 112\r\n'b'Timestap(s) 8 sensor = 450 output = 112\r\n'b'Timestap(s) 9 sensor = 448 output = 111\r\n'
